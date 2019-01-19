@@ -1,0 +1,94 @@
+<style>
+*   {
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+body {
+    background-color: #777;
+    color: #777;  
+    font-family: 'Arial';
+    font-size: 18px;
+    width: 960px;
+}
+header  {
+    background-color: #ebebeb;
+    padding-top: 29px;
+    padding-bottom: 29px;
+    margin-top: 5px;
+} 
+nav {
+    background-color: #ebebeb;
+    padding-top: 29px;
+    padding-bottom: 29px;
+    margin-top: 5px;
+}
+
+footer {
+    background-color: #ebebeb;
+    padding-top: 29px;
+    padding-bottom: 29px;
+    margin-top: 5px;
+}
+section {
+    background-color: #ebebeb;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    margin-top: 15px;
+}
+article {
+    background-color: #777;
+    color: #ebebeb;
+    padding-top: 2px;
+    padding-bottom: 3px;
+}
+.articleheading {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h1  {
+    background-color: #ebebeb;
+    color: #777;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 5px;
+    margin-right:20px;
+    margin-bottom: 5px;
+    margin-left:20px;
+}
+p   {
+    background-color: #ebebeb;
+    color: #777;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 5px;
+    margin-right:20px;
+    margin-bottom: 5px;
+    margin-left:20px;
+}
+aside   {
+    background-color: #ebebeb;
+}
+#leftbox {
+    float: left;
+    position: fixed;
+    display: block;
+    width: 495px;
+}
+
+#rightbox {
+    padding-bottom: 138px;
+    margin-top: 15px;
+    float: right;
+    display: block;
+    width: 350px;
+}
+footer  {
+    background-color: #ebebeb;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    margin-top: 5px;
+    margin-top: 240px;
+}
+</style>
